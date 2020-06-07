@@ -3,6 +3,10 @@ package com.xxl.job.core.enums;
 /**
  * Created by xuxueli on 17/5/9.
  */
+/**
+ * 执行器阻塞策略~
+ *
+ */
 public enum ExecutorBlockStrategyEnum {
 
     SERIAL_EXECUTION("Serial execution"),

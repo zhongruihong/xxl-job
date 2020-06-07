@@ -35,7 +35,12 @@
 			<version>${groovy.version}</version>
 		</dependency>
 
-		<!-- spring-context -->
+		<!-- spring-context :
+			包含了aop
+				core
+				beans
+				expression
+		-->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
